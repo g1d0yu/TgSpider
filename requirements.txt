@@ -1,0 +1,6 @@
+opentele~=1.15.1
+Telethon~=1.36.0
+requests~=2.31.0
+aiosqlite~=0.20.0
+pytz~=2024.1
+PyQt5~=5.15.10
